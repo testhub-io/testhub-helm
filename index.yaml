@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  testhub:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-30T15:32:33.760886+06:00"
+    description: A Helm chart for Kubernetes
+    digest: 289f53de909ce36a57680976ad782828af0b2e2537a467253241e10b0b5bb1c5
+    name: testhub
+    type: application
+    urls:
+    - https://testhub-io.github.io/testhub-helm/testhub-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-30T15:32:33.7601749+06:00"
