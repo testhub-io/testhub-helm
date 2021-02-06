@@ -9,6 +9,6 @@ entries:
     name: testhub
     type: application
     urls:
-    - https://testhub-io.github.io/testhub-helm/testhub-0.1.0.tgz
+    - https://testhub-io.github.io/testhub-helm/testhub-0.1.2.tgz
     version: 0.1.0
 generated: "2021-01-30T15:32:33.7601749+06:00"
