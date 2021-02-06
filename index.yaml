@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - https://testhub-io.github.io/testhub-helm/testhub-0.1.2.tgz
-    version: 0.1.0
+    version: 0.1.2
 generated: "2021-01-30T15:32:33.7601749+06:00"
