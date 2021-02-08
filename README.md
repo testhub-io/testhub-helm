@@ -26,3 +26,25 @@ helm repo add testhub https://testhub-io.github.io/testhub-helm
 helm repo update
 helm install testhub testhub/testhub -n test-hub -f values.yaml
 ```
+
+## Configure tests upload
+
+- Install testhub-cli
+```
+ curl  https://github.com/testhub-io/testhub-cli/releases/download/v0.12e/testhub-cli-v0.12e-linux-386.tar.gz --output testhub-cli.tar.gz -L && tar -xzf testhub-cli.tar.gz
+```
+
+- Initialize testhub environment variables 
+```
+    export ON_PREMISE=true    
+    export TESTHUB_DOMAIN=testhub-api.my-cluster.com
+```
+last one should point to backend
+
+- Run testhub-cli after test execution 
+```
+ ./testhub-cli upload --build $BUILD_NUMBER --project test-project/project-x --pattern ./report.xml
+```
+
+after execution test will be available in testhub frontend under `test-project` 
+
