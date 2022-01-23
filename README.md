@@ -29,7 +29,7 @@ helm install testhub testhub/testhub -n test-hub -f values.yaml
 
 ## Configure tests upload
 
-- Install testhub-cli
+- Install testhub-cli. Refer to https://github.com/testhub-io/testhub-cli for more info and most recent version.
 ```
  curl  https://github.com/testhub-io/testhub-cli/releases/download/v0.12e/testhub-cli-v0.12e-linux-386.tar.gz --output testhub-cli.tar.gz -L && tar -xzf testhub-cli.tar.gz
 ```
