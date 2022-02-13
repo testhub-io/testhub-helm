@@ -3,7 +3,19 @@ entries:
   testhub:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T21:07:07.019644847Z"
+    created: "2022-02-13T22:00:49.197070094Z"
+    description: A Helm chart for Kubernetes
+    digest: 676eae4bb256bc30cce54e23761d4c19c2666f7e5632a88fa181db49327909d2
+    name: testhub
+    sources:
+    - https://github.com/testhub-io/testhub/tree/main/helm/testhub
+    type: application
+    urls:
+    - testhub-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-13T22:00:49.195887401Z"
     description: A Helm chart for Kubernetes
     digest: f18d1f47412220c4eaa67731e23ff78b39995040dbb8e5fb17bfe2eaf8f18f21
     name: testhub
@@ -15,7 +27,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T21:07:07.018417755Z"
+    created: "2022-02-13T22:00:49.194203212Z"
     description: A Helm chart for Kubernetes
     digest: cb820d9338041d2ab0b88a84acfadba48ea08851c8646117d3a7b9c63d00d5c9
     name: testhub
@@ -25,7 +37,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T21:07:07.017829659Z"
+    created: "2022-02-13T22:00:49.193559016Z"
     description: A Helm chart for Kubernetes
     digest: 5a04fdae13bfc7670d0d109586b2aca610809084732cc3d73070b432e773b7a2
     name: testhub
@@ -35,7 +47,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T21:07:07.017238063Z"
+    created: "2022-02-13T22:00:49.19291652Z"
     description: A Helm chart for Kubernetes
     digest: 289f53de909ce36a57680976ad782828af0b2e2537a467253241e10b0b5bb1c5
     name: testhub
@@ -43,4 +55,4 @@ entries:
     urls:
     - testhub-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-13T21:07:07.016411168Z"
+generated: "2022-02-13T22:00:49.191903926Z"
