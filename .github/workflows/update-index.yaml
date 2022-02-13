@@ -3,7 +3,7 @@ name: Release Charts
 on:
   push:
     branches:
-      - gh-images
+      - gh-pages
     paths-ignore:
       - 'index.yaml'
     
