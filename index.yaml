@@ -3,9 +3,9 @@ entries:
   testhub:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T20:58:27.790687286Z"
+    created: "2022-02-13T21:03:02.666116801Z"
     description: A Helm chart for Kubernetes
-    digest: bda58a91241d00b6ce29e813b57bea0d4cdbdbd05aac873e821adbe98bc3c6af
+    digest: 44e374e05fd0e9f8440dd220c6a91ff09950e4160c7d29f94287206b2ac6458b
     name: testhub
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T20:58:27.790125282Z"
+    created: "2022-02-13T21:03:02.665004999Z"
     description: A Helm chart for Kubernetes
     digest: cb820d9338041d2ab0b88a84acfadba48ea08851c8646117d3a7b9c63d00d5c9
     name: testhub
@@ -23,7 +23,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T20:58:27.788865072Z"
+    created: "2022-02-13T21:03:02.664394098Z"
     description: A Helm chart for Kubernetes
     digest: 5a04fdae13bfc7670d0d109586b2aca610809084732cc3d73070b432e773b7a2
     name: testhub
@@ -33,7 +33,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T20:58:27.788026766Z"
+    created: "2022-02-13T21:03:02.663658297Z"
     description: A Helm chart for Kubernetes
     digest: 289f53de909ce36a57680976ad782828af0b2e2537a467253241e10b0b5bb1c5
     name: testhub
@@ -41,4 +41,4 @@ entries:
     urls:
     - testhub-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-13T20:58:27.787177459Z"
+generated: "2022-02-13T21:03:02.659007388Z"
