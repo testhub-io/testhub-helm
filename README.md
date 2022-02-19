@@ -1,5 +1,5 @@
 # testhub-helm
-Helm chart repo for TestHub
+Helm chart repo for TestHub. Source code for helm charts located [here](https://github.com/testhub-io/testhub/tree/main/helm/testhub)
 
 # Usage
 
